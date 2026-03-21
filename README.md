@@ -1,4 +1,4 @@
-## Fajl: calculator.java
+## Fajl: Calculator.java
 **Broj linije koda:** 188
 
 ### Zapazanja (SonarQube):
