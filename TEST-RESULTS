@@ -1,0 +1,4 @@
+Bug01 - Unos enter bez vrednosti: Exception in thread "main" java.lang.StringIndexOutOfBoundsException: Index 0 out of bounds for length 0
+Bug02 - 5*-2 vraca ERROR
+Bug03 - -2*(6+5) vraca ERROR
+Bug04 - procenat nije podrzan
